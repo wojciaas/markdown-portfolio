@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+## Programming skills
+*  C#
+*  C++
+*  Python
+*  HTML
+*  CSS
+*  PHP
